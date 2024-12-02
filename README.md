@@ -2,7 +2,7 @@
 
 Welcome to my **Advent of Code** repository! Every year, participants solve a series of coding challenges that start on December 1st. Here's a bit more about the event:
 
-> "The puzzles increase in difficulty each day, and I will attempt to solve them using **Python**."
+The puzzles increase in difficulty each day, and I will attempt to solve them using **Python**.
 
 ## 🧩 What is Advent of Code?
 
